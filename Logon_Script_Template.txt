@@ -1,0 +1,6 @@
+# Windows Based PC's
+run \\Alienwr-9i96sr0\...\...\...\WelcomeScript.ps1
+# Linux Based PC's
+run \\Alienwr-9i96sr0\...\...\...\WelcomeScript.sh
+# Unix Based PC's
+run \\Alienwr-9i96sr0\...\...\...\WelcomeScript.sh
